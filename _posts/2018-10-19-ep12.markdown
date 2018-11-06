@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Episode 12: The Weekend Crisis"
+# date: 2018-09-08 09:35:56 -0500
+categories: transcripts
+---

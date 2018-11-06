@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Episode 2: Upgrading our Knowledge Systems"
+# date: 2018-09-08 09:35:56 -0500
+categories: transcripts
+---

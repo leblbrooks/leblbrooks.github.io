@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Episode 3: How to Enjoy Growth and Productivity"
+# date: 2018-09-08 09:35:56 -0500
+categories: transcripts
+---
